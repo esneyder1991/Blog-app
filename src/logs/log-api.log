@@ -1,0 +1,18 @@
+[2023-07-17T00:01:05.500Z] info User with email: esneyder@hotmail.com not found undefined:undefined
+[2023-07-17T00:01:40.193Z] info Incorrect email or password undefined:undefined
+[2023-07-17T00:41:20.155Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-07-17T00:42:40.178Z] info jwt malformed undefined:undefined
+[2023-07-17T00:43:39.186Z] info jwt malformed undefined:undefined
+[2023-07-17T00:44:00.537Z] info jwt malformed undefined:undefined
+[2023-07-17T00:44:42.086Z] info jwt malformed undefined:undefined
+[2023-07-17T00:51:00.255Z] info jwt malformed undefined:undefined
+[2023-07-17T00:52:33.897Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-07-17T00:52:53.215Z] info jwt malformed undefined:undefined
+[2023-07-17T00:53:28.781Z] info jwt malformed undefined:undefined
+[2023-07-17T00:53:31.958Z] info jwt malformed undefined:undefined
+[2023-07-17T02:20:27.287Z] info jwt malformed undefined:undefined
+[2023-07-17T02:20:35.166Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-07-17T18:09:45.885Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-07-17T18:12:25.308Z] info jwt malformed undefined:undefined
+[2023-07-17T19:28:56.575Z] info Cant find /api/v1/password/3 on this server! undefined:undefined
+[2023-07-17T19:29:07.374Z] info jwt malformed undefined:undefined
