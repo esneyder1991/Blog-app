@@ -60,7 +60,7 @@ exports.protect = catchAsync(async (req, res, next) => {
   }
 
   req.sessionUser = user;
-  //el usuario en sesion es el usuario dueño del toquen
+  //el usuario en sesion es el usuario dueño del token
   //que para saber si un usuario esta en session debo validar el token
   //el usuario en session proviene del middleware protect que esta en authMiddleware
   next();
@@ -75,3 +75,15 @@ exports.protectAccountOwner = catchAsync(async (req, res, next) => {
 
   next();
 });
+
+exports.restrictTo = (...roles) => {
+  return (req, res, next) => {
+    if (!roles.includes(req.sessionUser.role)) {
+      return next(
+        new AppError('You do not have permission to perform this action!', 403)
+      );
+    }
+
+    next();
+  };
+};

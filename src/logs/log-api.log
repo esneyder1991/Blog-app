@@ -16,3 +16,177 @@
 [2023-07-17T18:12:25.308Z] info jwt malformed undefined:undefined
 [2023-07-17T19:28:56.575Z] info Cant find /api/v1/password/3 on this server! undefined:undefined
 [2023-07-17T19:29:07.374Z] info jwt malformed undefined:undefined
+[2023-07-18T03:35:52.132Z] info jwt malformed undefined:undefined
+[2023-07-18T03:56:01.249Z] info jwt malformed undefined:undefined
+[2023-07-18T03:58:17.144Z] info jwt malformed undefined:undefined
+[2023-07-20T20:24:08.001Z] info Unexpected token c in JSON at position 7 undefined:undefined
+[2023-07-20T20:30:37.267Z] info Incorrect email or password undefined:undefined
+[2023-07-20T21:55:11.909Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-07-20T21:57:32.131Z] info Incorrect password undefined:undefined
+[2023-07-20T22:22:13.886Z] info Incorrect password undefined:undefined
+[2023-07-20T22:24:08.299Z] info Incorrect password undefined:undefined
+[2023-07-22T21:05:41.176Z] info User with id: 3 not found undefined:undefined
+[2023-07-22T21:06:12.778Z] info Incorrect email or password undefined:undefined
+[2023-07-22T21:07:01.080Z] info User recently changed password!, please login again. undefined:undefined
+[2023-07-22T21:45:43.944Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-07-22T21:46:34.154Z] info User recently changed password!, please login again. undefined:undefined
+[2023-07-22T22:30:18.510Z] info You do not have permission to perform this action! undefined:undefined
+[2023-07-22T23:30:44.552Z] info invalid signature undefined:undefined
+[2023-07-22T23:45:48.893Z] info Invalid Token. Please login again! undefined:undefined
+[2023-07-22T23:48:17.807Z] info invalid signature undefined:undefined
+[2023-07-23T22:24:38.351Z] info Cant find /api/v1/posts on this server! undefined:undefined
+[2023-07-23T22:27:12.213Z] info Cant find /api/v1/posts/1 on this server! undefined:undefined
+[2023-07-23T22:27:35.129Z] info Cant find /api/v1/posts/1 on this server! undefined:undefined
+[2023-07-23T22:30:22.721Z] info Cant find /api/v1/posts/1 on this server! undefined:undefined
+[2023-07-23T22:30:26.768Z] info Cant find /api/v1/posts/1 on this server! undefined:undefined
+[2023-07-24T00:14:24.267Z] info notNull Violation: posts.userId cannot be null undefined:undefined
+[2023-07-24T02:25:25.849Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-07-24T02:25:53.322Z] info notNull Violation: posts.userId cannot be null undefined:undefined
+[2023-07-24T22:59:38.880Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-07-24T23:17:35.325Z] info Incorrect email or password undefined:undefined
+[2023-07-24T23:17:47.940Z] info Incorrect email or password undefined:undefined
+[2023-07-25T00:24:24.782Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-07-25T00:52:45.502Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-07-25T16:15:41.273Z] info jwt expired undefined:undefined
+[2023-07-25T16:17:50.959Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-07-25T16:18:07.746Z] info Post with id: 8 not found undefined:undefined
+[2023-07-25T17:11:35.362Z] info User with email: miranda@mail.com not found undefined:undefined
+[2023-07-25T17:12:13.243Z] info Incorrect email or password undefined:undefined
+[2023-07-25T17:12:25.071Z] info Incorrect email or password undefined:undefined
+[2023-07-25T17:14:40.015Z] info Post with id: 8 not found undefined:undefined
+[2023-07-25T17:32:38.669Z] info You do not own this account. undefined:undefined
+[2023-07-25T17:34:47.189Z] info Incorrect email or password undefined:undefined
+[2023-07-25T17:34:52.806Z] info Incorrect email or password undefined:undefined
+[2023-07-25T17:35:40.186Z] info You do not own this account. undefined:undefined
+[2023-07-25T21:46:51.324Z] info Cant find //api/v1/comment on this server! undefined:undefined
+[2023-07-25T21:47:01.275Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-07-25T21:47:50.566Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-07-25T21:52:31.035Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-07-25T21:53:22.021Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-07-25T21:53:59.602Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-07-25T22:15:06.783Z] info notNull Violation: comments.status cannot be null undefined:undefined
+[2023-07-25T22:44:19.690Z] info la sintaxis de entrada no es válida para tipo boolean: «active» undefined:undefined
+[2023-07-25T22:53:31.745Z] info AppError is not defined undefined:undefined
+[2023-07-25T22:54:15.112Z] info Comment with id: 1 not found undefined:undefined
+[2023-07-25T23:14:27.033Z] info Comment with id: 10 not found undefined:undefined
+[2023-07-25T23:58:20.847Z] info inserción o actualización en la tabla «comments» viola la llave foránea «comments_postId_fkey» undefined:undefined
+[2023-07-26T00:05:38.658Z] info Post with id: 100 not found undefined:undefined
+[2023-07-26T15:00:07.065Z] info jwt expired undefined:undefined
+[2023-07-26T15:31:38.510Z] info Comment with id: 5 not found undefined:undefined
+[2023-07-26T15:31:54.553Z] info Comment with id: 3 not found undefined:undefined
+[2023-07-26T15:32:00.377Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-07-26T15:45:33.926Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-07-26T15:50:44.434Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-07-26T16:17:23.056Z] info Cannot read properties of undefined (reading 'id') undefined:undefined
+[2023-07-26T16:27:36.558Z] info Comment with id: 3 not found undefined:undefined
+[2023-07-26T17:10:02.704Z] info Incorrect email or password undefined:undefined
+[2023-07-26T17:10:56.809Z] info You do not own this account. undefined:undefined
+[2023-07-26T17:45:27.621Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-07-26T17:45:36.916Z] info la sintaxis de entrada no es válida para tipo integer: «me» undefined:undefined
+[2023-07-26T17:48:12.295Z] info Cant find /api/v1/post/me on this server! undefined:undefined
+[2023-07-26T17:49:29.507Z] info la sintaxis de entrada no es válida para tipo integer: «me» undefined:undefined
+[2023-07-26T17:55:09.767Z] info no existe la relación «post» undefined:undefined
+[2023-07-26T17:58:09.798Z] info no existe la relación «post» undefined:undefined
+[2023-07-26T21:27:49.694Z] info You do not own this account. undefined:undefined
+[2023-07-26T21:28:13.890Z] info You do not own this account. undefined:undefined
+[2023-07-26T21:28:20.189Z] info You do not own this account. undefined:undefined
+[2023-07-26T21:41:15.844Z] info Cant find /api/v1/profile/1 on this server! undefined:undefined
+[2023-07-26T21:57:06.662Z] info la sintaxis de entrada no es válida para tipo integer: «profile» undefined:undefined
+[2023-08-11T22:42:23.015Z] info llave duplicada viola restricción de unicidad «users_email_key» undefined:undefined
+[2023-08-11T22:42:41.816Z] info llave duplicada viola restricción de unicidad «users_email_key» undefined:undefined
+[2023-08-11T22:58:12.481Z] info jwt expired undefined:undefined
+[2023-08-11T23:00:41.256Z] info You are not logged in!, Please log in to get access undefined:undefined
+[2023-08-11T23:20:34.124Z] info Firebase Storage: Invalid URL 'https://www.researchgate.net/profile/Maria-Monreal/publication/315108532/figure/fig1/AS:472492935520261@1489662502634/Figura-2-Avatar-que-aparece-por-defecto-en-Facebook.png'. (storage/invalid-url) undefined:undefined
+[2023-08-11T23:30:43.220Z] info Firebase Storage: Invalid URL 'https://www.researchgate.net/profile/Maria-Monreal/publication/315108532/figure/fig1/AS:472492935520261@1489662502634/Figura-2-Avatar-que-aparece-por-defecto-en-Facebook.png'. (storage/invalid-url) undefined:undefined
+[2023-08-12T01:20:18.338Z] info Firebase Storage: Invalid URL 'https://www.researchgate.net/profile/Maria-Monreal/publication/315108532/figure/fig1/AS:472492935520261@1489662502634/Figura-2-Avatar-que-aparece-por-defecto-en-Facebook.png'. (storage/invalid-url) undefined:undefined
+[2023-08-13T01:15:23.183Z] info jwt expired undefined:undefined
+[2023-08-13T01:21:40.987Z] info Firebase Storage: Invalid URL 'https://www.researchgate.net/profile/Maria-Monreal/publication/315108532/figure/fig1/AS:472492935520261@1489662502634/Figura-2-Avatar-que-aparece-por-defecto-en-Facebook.png'. (storage/invalid-url) undefined:undefined
+[2023-08-13T02:24:07.720Z] info Firebase Storage: Invalid URL 'https://www.researchgate.net/profile/Maria-Monreal/publication/315108532/figure/fig1/AS:472492935520261@1489662502634/Figura-2-Avatar-que-aparece-por-defecto-en-Facebook.png'. (storage/invalid-url) undefined:undefined
+[2023-08-14T18:31:43.144Z] info Firebase Storage: Invalid URL 'https://www.researchgate.net/profile/Maria-Monreal/publication/315108532/figure/fig1/AS:472492935520261@1489662502634/Figura-2-Avatar-que-aparece-por-defecto-en-Facebook.png'. (storage/invalid-url) undefined:undefined
+[2023-08-14T18:33:18.880Z] info usersResolved is not defined undefined:undefined
+[2023-08-14T18:34:00.877Z] info usersResolved is not defined undefined:undefined
+[2023-08-14T19:08:22.777Z] info Firebase Storage: Invalid URL 'https://www.researchgate.net/profile/Maria-Monreal/publication/315108532/figure/fig1/AS:472492935520261@1489662502634/Figura-2-Avatar-que-aparece-por-defecto-en-Facebook.png'. (storage/invalid-url) undefined:undefined
+[2023-08-15T20:41:15.860Z] info jwt expired undefined:undefined
+[2023-08-15T20:42:07.255Z] info notNull Violation: postImg.PostImgUrl cannot be null undefined:undefined
+[2023-08-15T20:42:59.460Z] info notNull Violation: postImg.PostImgUrl cannot be null undefined:undefined
+[2023-08-15T20:52:59.865Z] info notNull Violation: postImg.PostImgUrl cannot be null undefined:undefined
+[2023-08-15T20:55:26.213Z] info notNull Violation: postImg.PostImgUrl cannot be null undefined:undefined
+[2023-08-15T20:57:47.103Z] info notNull Violation: postImg.PostImgUrl cannot be null undefined:undefined
+[2023-08-15T21:01:57.868Z] info notNull Violation: postImg.PostImgUrl cannot be null undefined:undefined
+[2023-08-15T21:03:43.905Z] info no existe la columna «postImgUrl» en la relación «postImgs» undefined:undefined
+[2023-08-16T23:23:57.398Z] info jwt expired undefined:undefined
+[2023-08-17T00:14:42.748Z] info Post with id: 1 not found undefined:undefined
+[2023-08-19T02:01:46.801Z] info jwt expired undefined:undefined
+[2023-08-19T02:03:04.131Z] info Post with id: 10 not found undefined:undefined
+[2023-08-19T02:51:33.416Z] info Promises is not defined undefined:undefined
+[2023-08-19T02:53:21.192Z] info Promises is not defined undefined:undefined
+[2023-08-27T02:32:18.653Z] info jwt malformed undefined:undefined
+[2023-08-27T02:33:08.995Z] info jwt malformed undefined:undefined
+[2023-08-29T02:40:32.884Z] info jwt malformed undefined:undefined
+[2023-08-29T03:59:46.544Z] info jwt malformed undefined:undefined
+[2023-08-29T04:05:34.851Z] info jwt malformed undefined:undefined
+[2023-08-29T04:05:54.476Z] info jwt malformed undefined:undefined
+[2023-08-29T04:17:26.230Z] info jwt malformed undefined:undefined
+[2023-08-29T04:19:38.750Z] info jwt malformed undefined:undefined
+[2023-08-29T04:19:55.844Z] info jwt malformed undefined:undefined
+[2023-08-29T04:33:39.336Z] info jwt malformed undefined:undefined
+[2023-08-29T04:33:48.791Z] info jwt malformed undefined:undefined
+[2023-08-29T04:35:13.689Z] info jwt malformed undefined:undefined
+[2023-08-29T04:35:33.309Z] info jwt malformed undefined:undefined
+[2023-08-29T04:36:23.968Z] info jwt malformed undefined:undefined
+[2023-08-29T04:37:44.675Z] info jwt malformed undefined:undefined
+[2023-08-29T04:37:57.557Z] info jwt malformed undefined:undefined
+[2023-08-29T04:38:10.974Z] info jwt malformed undefined:undefined
+[2023-08-29T20:17:23.126Z] info jwt malformed undefined:undefined
+[2023-08-29T20:19:33.296Z] info jwt malformed undefined:undefined
+[2023-08-29T20:19:48.487Z] info jwt malformed undefined:undefined
+[2023-08-29T20:19:54.283Z] info jwt malformed undefined:undefined
+[2023-08-29T20:20:03.428Z] info jwt malformed undefined:undefined
+[2023-08-29T20:20:15.404Z] info jwt malformed undefined:undefined
+[2023-08-29T20:20:21.717Z] info jwt malformed undefined:undefined
+[2023-08-29T20:20:28.310Z] info jwt malformed undefined:undefined
+[2023-08-29T20:22:04.693Z] info jwt malformed undefined:undefined
+[2023-08-29T20:43:32.222Z] info jwt malformed undefined:undefined
+[2023-08-29T20:43:40.122Z] info jwt malformed undefined:undefined
+[2023-08-29T20:47:49.188Z] info jwt malformed undefined:undefined
+[2023-08-29T20:48:26.577Z] info jwt malformed undefined:undefined
+[2023-08-29T20:53:35.157Z] info jwt malformed undefined:undefined
+[2023-08-29T20:54:14.134Z] info jwt malformed undefined:undefined
+[2023-08-29T20:54:25.483Z] info jwt malformed undefined:undefined
+[2023-08-29T20:58:53.604Z] info jwt malformed undefined:undefined
+[2023-08-29T20:59:21.085Z] info jwt malformed undefined:undefined
+[2023-08-29T21:29:25.500Z] info jwt malformed undefined:undefined
+[2023-08-29T21:29:37.780Z] info jwt malformed undefined:undefined
+[2023-08-29T21:33:47.610Z] info jwt malformed undefined:undefined
+[2023-08-29T21:44:41.216Z] info jwt malformed undefined:undefined
+[2023-08-29T21:44:42.508Z] info jwt malformed undefined:undefined
+[2023-08-30T21:32:40.678Z] info jwt malformed undefined:undefined
+[2023-08-30T21:36:14.481Z] info jwt malformed undefined:undefined
+[2023-08-30T21:55:51.987Z] info jwt malformed undefined:undefined
+[2023-08-30T22:30:09.057Z] info jwt malformed undefined:undefined
+[2023-08-30T22:32:18.106Z] info jwt malformed undefined:undefined
+[2023-08-30T22:34:27.845Z] info Cannot read properties of undefined (reading 'originalname') undefined:undefined
+[2023-08-30T22:35:50.935Z] info Cannot read properties of undefined (reading 'originalname') undefined:undefined
+[2023-08-31T00:24:06.806Z] info Cannot read properties of undefined (reading 'originalname') undefined:undefined
+[2023-08-31T00:32:23.914Z] info jwt malformed undefined:undefined
+[2023-08-31T00:38:53.927Z] info jwt malformed undefined:undefined
+[2023-08-31T00:39:04.352Z] info jwt malformed undefined:undefined
+[2023-08-31T00:39:07.858Z] info jwt malformed undefined:undefined
+[2023-08-31T21:15:52.327Z] info jwt malformed undefined:undefined
+[2023-08-31T21:15:56.755Z] info jwt malformed undefined:undefined
+[2023-08-31T21:16:25.146Z] info jwt malformed undefined:undefined
+[2023-08-31T21:16:28.451Z] info jwt malformed undefined:undefined
+[2023-08-31T21:54:02.361Z] info jwt malformed undefined:undefined
+[2023-08-31T21:58:02.099Z] info jwt malformed undefined:undefined
+[2023-08-31T21:58:18.477Z] info jwt malformed undefined:undefined
+[2023-08-31T22:00:01.242Z] info jwt malformed undefined:undefined
+[2023-08-31T22:00:07.378Z] info jwt malformed undefined:undefined
+[2023-08-31T22:45:28.369Z] info jwt malformed undefined:undefined
+[2023-08-31T22:45:32.355Z] info jwt malformed undefined:undefined
+[2023-08-31T22:45:38.853Z] info jwt malformed undefined:undefined
+[2023-08-31T22:45:44.679Z] info jwt malformed undefined:undefined
+[2023-08-31T22:47:23.693Z] info jwt malformed undefined:undefined
+[2023-08-31T22:47:45.148Z] info jwt malformed undefined:undefined
+[2023-08-31T22:47:47.240Z] info jwt malformed undefined:undefined
+[2023-08-31T22:50:48.322Z] info jwt malformed undefined:undefined
+[2023-08-31T23:00:27.621Z] info jwt malformed undefined:undefined

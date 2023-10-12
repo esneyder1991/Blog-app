@@ -56,3 +56,14 @@ exports.updateUserValidation = [
     .withMessage('Password must be at least 8 characters long'),
   validFields,
 ];
+
+exports.createPostValidation = [
+  body('title').notEmpty().withMessage('Title cannot be empty'),
+  body('content').notEmpty().withMessage('Content cannot be empty'),
+  validFields,
+];
+
+exports.createCommentValidation = [
+  body('text').notEmpty().withMessage('Text cannot be empty'),
+  validFields,
+];

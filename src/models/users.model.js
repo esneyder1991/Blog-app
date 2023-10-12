@@ -25,7 +25,7 @@ const User = db.define('users', {
     type: DataTypes.STRING,
     allowNull: false,
   },
-  passwordChangeAt: {
+  passwordChangedAt: {
     // para almacenar la fecha y hora en la que un usuario cambió su contraseña por última vez. con el fin de brindar seguridad se puede implementar lógica para obligar a los usuarios a cambiar su contraseña después de un cierto período de tiempo, como una política de seguridad.
     type: DataTypes.DATE,
     allowNull: true,
@@ -33,8 +33,7 @@ const User = db.define('users', {
   profileImgUrl: {
     type: DataTypes.STRING,
     allowNull: false,
-    defaultValue:
-      'https://www.researchgate.net/profile/Maria-Monreal/publication/315108532/figure/fig1/AS:472492935520261@1489662502634/Figura-2-Avatar-que-aparece-por-defecto-en-Facebook.png',
+    defaultValue: 'users/1691793732499-Husky and sunset.jpg',
   },
   role: {
     type: DataTypes.ENUM('user', 'admin'),
